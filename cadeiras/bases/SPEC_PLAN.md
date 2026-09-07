@@ -13,7 +13,7 @@ Operações aritméticas e leitura de JavaScript.
 Resolver o diagnóstico e explicar uma função, uma percentagem e uma média sem copiar uma solução.
 
 ## Módulo em aprofundamento
-[Especificação detalhada do módulo 1](modulo-1/SPEC_PLAN.md). B01 e B02 seguem o estado registado nesse documento; duração e avaliação próprias substituem a estimativa introdutória.
+[Especificação detalhada do módulo 1](modulo-1/SPEC_PLAN.md) e [módulo 2](modulo-2/SPEC_PLAN.md). As aulas seguem o estado registado nesses documentos; duração e avaliação próprias substituem a estimativa introdutória.
 
 ## Aulas introdutórias implementadas
 Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
