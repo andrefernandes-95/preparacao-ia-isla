@@ -9,7 +9,7 @@ Preparação para a pós-graduação em Inteligência Artificial do ISLA Gaia, a
 - [SPEC_PLAN geral e planos de cada cadeira](SPEC_PLAN.md)
 - [Laboratórios Python](labs/README.md)
 
-Inclui **38 aulas introdutórias**, **19 módulos**, **126 exercícios** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
+Inclui **38 aulas introdutórias**, **19 módulos**, **130 exercícios** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
 
 Os títulos/ECTS seguem a [página do ISLA](https://www.islagaia.pt/pt/pos-graduacoes/inteligencia-artificial-pt), consultada em 7 de setembro de 2026. Os módulos e conteúdos são uma proposta independente, não o programa oficial detalhado. A página indica início previsto em **2 de outubro de 2026**; o plano mantém a meta pessoal de novembro e inclui prioridades para outubro.
 
@@ -39,7 +39,7 @@ O backend Python não corre no GitHub Pages. As aulas de integração identifica
 
 - Aulas introdutórias escritas e disponíveis; os aprofundamentos AP de cada plano ainda são propostas a desenvolver.
 - Progresso apenas no navegador, exportável/importável em Sobre; não há conta, sincronização nem avaliação automática de domínio.
-- B01, B02 e B03 completas com sete exercícios cada; restantes aulas ainda introdutórias com três, até ao respetivo aprofundamento. No calendário há espaço para revisão e código.
+- B01 a B04 completas com sete exercícios cada; restantes aulas ainda introdutórias com três, até ao respetivo aprofundamento. No calendário há espaço para revisão e código.
 - Dados sintéticos nos laboratórios: não provam eficácia de um produto real.
 - Validação automatizada: build, ligações locais, anchors, tamanho das páginas, estrutura das aulas e cálculos de referência. Inspeção visual em navegador não incluída nesta validação.
 
@@ -47,3 +47,5 @@ Inspirado na abordagem pedagógica do [repositório de matemática](https://gith
 
 ## Trabalho por aula
 Segue a [especificação do módulo 1](cadeiras/bases/modulo-1/SPEC_PLAN.md). Cada aula completa tem revisão, commit e push próprios. O ritmo aprofundado substitui a estimativa introdutória de 45 minutos.
+
+Módulo 2 concluído: [especificação de funções e dados](cadeiras/bases/modulo-2/SPEC_PLAN.md). B03 e B04 publicadas por aula, com sete exercícios cada e verificações de cálculos e do validador.
