@@ -17,7 +17,7 @@ Cada aula completa indica a sua duração e critérios. A estimativa de 45 minut
 
 ### Módulo 1 — Álgebra linear aplicada
 - [M01 — Vetores e produto escalar](modulo-1/m01.html): Representar dados por vetores, calcular operações e interpretar uma previsão ponderada. Pré-requisitos: B02: expressões e equações; B03: plano cartesiano, funções e raiz quadrada.
-- [M02 — Matrizes e dimensões](modulo-1/m02.html): Organizar várias observações e verificar dimensões. Pré-requisitos: M01.
+- [M02 — Matrizes e dimensões](modulo-1/m02.html): Organizar observações em matrizes e executar produtos com dimensões justificadas. Pré-requisitos: M01: vetores, componentes, produto escalar e previsão linear.
 
 ### Módulo 2 — Probabilidade e otimização
 - [M03 — Probabilidade condicionada e Bayes](modulo-2/m03.html): Escolher o denominador certo ao interpretar previsões. Pré-requisitos: B01 e B04.

@@ -19,6 +19,15 @@ const python=process.platform==='win32'&&fs.existsSync('.venv/Scripts/python.exe
 const execution=spawnSync(python,['-c',m1.code],{encoding:'utf8'});
 assert.equal(execution.status,0,execution.stderr);
 assert(execution.stdout.includes("'previsao_ms': 200"));
+const m2=lessons.find(l=>l.id==='M02');
+const matmul=(A,B)=>A.map(row=>B[0].map((_,j)=>row.reduce((sum,x,k)=>sum+x*B[k][j],0)));
+const A=[[1,2],[3,4]],B=[[5,6],[7,8]];
+assert.deepEqual(matmul(A,B),[[19,22],[43,50]]);
+assert.deepEqual(matmul(B,A),[[23,34],[31,46]]);
+assert.deepEqual(m2.questions.map(q=>q.a),[12,5,8,30,0,43,24]);
+assert.deepEqual(matmul([[1,2],[0,1]],[[2,0],[3,4]]),[[8,8],[3,4]]);
+assert.deepEqual(matmul([[2,0],[3,4]],[[1,2],[0,1]]),[[2,4],[3,10]]);
+assert(m2.extra.includes('(3,1)')&&m2.extra.includes('(3,3)'));
 
 const selected=lessons.filter(l=>['M01','M02'].includes(l.id)&&l.complete);
 const forms=selected.flatMap(l=>l.questions.map(q=>({dataset:{answer:String(q.a),kind:q.options?'choice':'number'},raw:String(q.a).replace('.',','),feedback:{},solution:{},addEventListener(t,fn){this.submit=fn;},querySelector(s){return s==='.feedback'?this.feedback:this.solution;}})));
