@@ -19,7 +19,10 @@ Programador front-end com bases frágeis do secundário. Compreender proporçõe
 - Objetivos: distinguir expressão e equação, explicar cada operação nos dois membros, verificar uma solução e traduzir um problema de custos.
 - Avaliação: sete exercícios progressivos, pistas e resoluções; miniatividade de modelação com unidade e verificação.
 - Aceitação: pelo menos 6/7 sem pistas; justificar solução por substituição; reconhecer divisão por zero e restrições de contagens.
-- Estado: versão introdutória; aprofundamento pendente até ao commit específico da B02.
+- Estado: conteúdo completo implementado; equações, casos especiais, restrições e modelação incluídos. Validação e publicação registadas no commit específico da B02.
 
 ## Processo permanente
 Especificação → conteúdo → revisão matemática e pedagógica → build e validação → commit da aula → push → verificar publicação. Só depois passar à próxima aula. Este módulo termina após B02; o módulo 2 mantém o seu estado até ser desenvolvido na ordem prevista.
+
+## Fecho do módulo
+B01 e B02 concluídas no âmbito definido acima. As resoluções dos 14 exercícios foram verificadas com cálculos independentes e a validação do JavaScript foi exercitada com respostas corretas, incorretas e vazias. Publicação da B01 confirmada antes de iniciar a B02. O módulo 2 é a próxima unidade de trabalho.
