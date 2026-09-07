@@ -74,3 +74,6 @@ Cada cadeira inclui temas AP1–AP4 **planeados, ainda não implementados como a
 ## 9. Estado desta versão
 
 Implementação introdutória completa para o âmbito acima. Aprofundamento planeado separado. A publicação e os resultados de verificações são registados no README; a existência do workflow não prova, por si só, que o site já foi publicado.
+
+## 10. Revisão solicitada: execução por módulo e aula
+A partir desta revisão, completar os módulos por ordem. Cada aula aprofundada tem sete exercícios progressivos e tempo próprio de estudo. Atualizar a especificação, rever, validar, fazer commit e push antes da aula seguinte. As contagens e durações da versão introdutória acima são históricas; consultar o plano do módulo para o estado atual.
