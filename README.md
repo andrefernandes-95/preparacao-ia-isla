@@ -9,7 +9,7 @@ Preparação para a pós-graduação em Inteligência Artificial do ISLA Gaia, a
 - [SPEC_PLAN geral e planos de cada cadeira](SPEC_PLAN.md)
 - [Laboratórios Python](labs/README.md)
 
-Inclui **38 aulas**, **19 módulos**, **146 exercícios interativos** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
+Inclui **38 aulas**, **19 módulos**, **150 exercícios interativos** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
 
 Os títulos/ECTS seguem a [página do ISLA](https://www.islagaia.pt/pt/pos-graduacoes/inteligencia-artificial-pt), consultada em 7 de setembro de 2026. Os módulos e conteúdos são uma proposta independente, não o programa oficial detalhado. A página indica início previsto em **2 de outubro de 2026**; o plano mantém a meta pessoal de novembro e inclui prioridades para outubro.
 
@@ -41,6 +41,7 @@ O backend Python não corre no GitHub Pages. As aulas de integração identifica
 - Progresso apenas no navegador, exportável/importável em Sobre; não há conta, sincronização nem avaliação automática de domínio.
 - B01 a B06 completas com sete exercícios cada; restantes aulas ainda introdutórias com três, até ao respetivo aprofundamento. No calendário há espaço para revisão e código.
 - M01 e M02 completas com sete exercícios cada e laboratório NumPy; o módulo 2 de Matemática mantém a versão introdutória até ao seu ciclo próprio.
+- M03 completa com sete exercícios; M04 mantém a versão introdutória até ao seu commit próprio.
 - Dados sintéticos nos laboratórios: não provam eficácia de um produto real.
 - Validação automatizada: build, ligações locais, anchors, tamanho das páginas, estrutura das aulas e cálculos de referência. Inspeção visual em navegador não incluída nesta validação.
 

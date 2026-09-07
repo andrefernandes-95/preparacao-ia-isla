@@ -20,7 +20,7 @@ Cada aula completa indica a sua duração e critérios. A estimativa de 45 minut
 - [M02 — Matrizes e dimensões](modulo-1/m02.html): Organizar observações em matrizes e executar produtos com dimensões justificadas. Pré-requisitos: M01: vetores, componentes, produto escalar e previsão linear.
 
 ### Módulo 2 — Probabilidade e otimização
-- [M03 — Probabilidade condicionada e Bayes](modulo-2/m03.html): Escolher o denominador certo ao interpretar previsões. Pré-requisitos: B01 e B04.
+- [M03 — Probabilidade condicionada e Bayes](modulo-2/m03.html): Calcular probabilidades condicionadas e atualizar uma crença sem trocar o grupo de referência. Pré-requisitos: B01: frações e percentagens; B04: frequências, população e amostra.
 - [M04 — Derivadas e descida do gradiente](modulo-2/m04.html): Dar um passo que reduz uma função de erro. Pré-requisitos: B03 e B02.
 
 ## Aprofundamento planeado — ainda por desenvolver em HTML

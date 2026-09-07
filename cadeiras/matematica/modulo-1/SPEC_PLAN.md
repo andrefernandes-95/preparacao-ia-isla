@@ -19,7 +19,7 @@ Uma semana de 4 horas por aula. Usar duas sessões de 60 minutos para a explica�
 - Resultados: prever várias observações, validar dimensões antes do cálculo e distinguir `*` de `@` em NumPy.
 - Sete exercícios progressivos e laboratório de álgebra linear.
 - Aceitação: 6/7 sem pistas; escrever as shapes de todos os operandos e confirmar pelo menos uma célula à mão.
-- Estado: conteúdo completo implementado; publicar em commit próprio após validação.
+- Estado: concluída e publicada no commit 6d991a9; publicação confirmada antes do módulo seguinte.
 
 ## Limites
 Sistemas lineares gerais, determinantes, inversas, bases, independência linear, projeções e autovetores ficam para aprofundamentos posteriores. M01 pode introduzir perpendicularidade; M02 pode mostrar a identidade e transformações simples sem apresentar uma inversa como método preferencial para resolver sistemas.
