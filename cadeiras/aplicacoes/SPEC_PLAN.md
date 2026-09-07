@@ -13,7 +13,7 @@ HTTP/JSON e fundamentos de avaliação de modelos.
 Definir uma API de previsão, uma interface de incerteza e um plano de monitorização.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Produto e integração
 - [A01 — Do problema à funcionalidade](modulo-1/a01.html): Definir uma utilidade mensurável antes de escolher tecnologia. Pré-requisitos: I01 e ML02.

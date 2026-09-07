@@ -13,7 +13,7 @@ Funções e percentagens; não exige cálculo universitário.
 Escolher entre regras, aprendizagem supervisionada e não supervisionada e definir uma avaliação útil.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Problemas e paradigmas
 - [I01 — O que é aprender a partir de dados?](modulo-1/i01.html): Distinguir regras explícitas de parâmetros aprendidos. Pré-requisitos: B03.

@@ -13,7 +13,7 @@ Python, classificação, produto escalar e noção de rede neuronal.
 Explicar tokenização, construir uma referência de classificação e desenhar um fluxo RAG verificável.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Representar texto
 - [N01 — Texto, tokens e vocabulário](modulo-1/n01.html): Converter texto numa representação numérica simples. Pré-requisitos: P01 e M01.

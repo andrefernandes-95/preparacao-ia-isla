@@ -13,7 +13,7 @@ Ambiente instalado e noção de listas, funções e objetos em JavaScript.
 Ler dados, validar o esquema, calcular estatísticas e reproduzir a execução num ambiente isolado.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Python para quem já programa
 - [P01 — De JavaScript para Python](modulo-1/p01.html): Transformar dados com listas, dicionários e funções. Pré-requisitos: B05.

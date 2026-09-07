@@ -13,7 +13,7 @@ Produto escalar, derivada, Python e avaliação de Machine Learning.
 Calcular um neurónio, interpretar um gradiente e reconhecer sobreajustamento num treino.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Do neurónio à aprendizagem
 - [D01 — Um neurónio explicado à mão](modulo-1/d01.html): Calcular uma soma ponderada e uma ativação. Pré-requisitos: M01 e ML01.

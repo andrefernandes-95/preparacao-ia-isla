@@ -13,7 +13,7 @@ Programação e Machine Learning; NLP se escolheres o projeto de suporte.
 Apresentar problema, dados, referência, modelo, avaliação, interface e limitações num repositório.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Desenhar uma experiência
 - [F01 — Definir um projeto pequeno e defensável](modulo-1/f01.html): Fixar âmbito, pergunta e critérios de sucesso. Pré-requisitos: I02 e A01.

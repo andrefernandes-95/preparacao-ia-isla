@@ -16,7 +16,7 @@ Resolver o diagnóstico e explicar uma função, uma percentagem e uma média se
 [Especificação detalhada do módulo 1](modulo-1/SPEC_PLAN.md) e [módulo 2](modulo-2/SPEC_PLAN.md) e [módulo 3](modulo-3/SPEC_PLAN.md). As aulas seguem o estado registado nesses documentos; duração e avaliação próprias substituem a estimativa introdutória.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Números e álgebra
 - [B01 — Frações, percentagens e sinais](modulo-1/b01.html): Converter proporções e distinguir variação absoluta de relativa. Pré-requisitos: Saber somar, multiplicar e dividir.
@@ -28,7 +28,7 @@ Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar
 
 ### Módulo 3 — Preparação do ambiente
 - [B05 — Ambiente Python e primeiro script](modulo-3/b05.html): Executar Python num ambiente isolado e compreender o que fica no repositório. Pré-requisitos: Saber abrir um terminal na pasta do projeto.
-- [B06 — Diagnóstico e método de estudo](modulo-3/b06.html): Identificar lacunas e decidir o que rever antes de avançar. Pré-requisitos: Tentar B01–B05, mesmo com dificuldades.
+- [B06 — Diagnóstico e método de estudo](modulo-3/b06.html): Identificar lacunas concretas nas bases e decidir a próxima sessão de estudo. Pré-requisitos: B01, B02, B03, B04 e B05: estudar e tentar os exercícios; ter executado ambiente.py.
 
 ## Aprofundamento planeado — ainda por desenvolver em HTML
 ### AP1 — Potências e logaritmos com mais exercícios
@@ -56,7 +56,7 @@ Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar
 Criar uma folha de raciocínio com taxas de conversão, função de custo e resumo de latências.
 
 ## Avaliação proposta
-Resolver pelo menos 5 das 6 questões de diagnóstico; rever os erros 48 horas depois.
+No diagnóstico B06: pelo menos 6/7 sem pistas, raciocínio escrito, revisão dos erros e execução do laboratório. Repetir com variantes após 48 horas.
 
 ## Adaptação a 4 horas semanais
 Seguir a seleção em [percurso](../../percurso.html). Não converter ECTS em horas de preparação nem tentar completar o aprofundamento antes de novembro. Quando falhar 2 exercícios, rever o pré-requisito em vez de acelerar.

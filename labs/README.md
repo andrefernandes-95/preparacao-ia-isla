@@ -43,3 +43,6 @@ O ficheiro de requisitos usa intervalos de compatibilidade, não um lock de toda
 Guarda o ficheiro junto dos resultados da tua experiência. O teste sintético foi fixado antes do ajuste do modelo. Não afines hiperparâmetros com esse teste e continues a chamar-lhe independente: reserva validação e um novo teste se fores desenvolver o modelo.
 
 Os scripts executam na tua máquina; GitHub Pages apenas disponibiliza os ficheiros para leitura/download.
+
+## Primeiro laboratório — B05
+`ambiente.py` usa apenas a biblioteca padrão. Executa com `.venv/Scripts/python.exe labs/ambiente.py` em Windows, ou `.venv/bin/python labs/ambiente.py` em macOS/Linux. Mostra o executável, média 200 e mediana 110; a lista vazia produz null nos resumos. Nenhum ficheiro é alterado.

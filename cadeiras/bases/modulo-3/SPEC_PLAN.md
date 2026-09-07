@@ -14,14 +14,17 @@ Concluir a ponte de bases com um ambiente Python verificável e um diagnóstico 
 - Diagnosticar caminhos, extensões, indentação, nomes e imports sem reinstalar indiscriminadamente.
 - Sete exercícios com pistas/resoluções; laboratório executável com resultados esperados.
 - Aceitação: 6/7 e execução do laboratório num ambiente virtual, explicando qual intérprete foi usado e o que entra no Git.
-- Estado: conteúdo completo implementado; confirmar publicação antes de iniciar B06.
+- Estado: concluída e publicada no commit 6884f44; laboratório validado num ambiente virtual novo antes da publicação.
 
 ## B06 — Diagnóstico e método de estudo
 - Diagnóstico real de sete perguntas sobre B01–B05, sem soluções expostas antes da zona de exercícios.
 - Mapa pergunta → competência → aula/secção a rever; distinguir erro conceptual, aritmético e operacional.
 - Plano de quatro horas com revisão diferida e tarefa de transferência; variantes para repetir sem decorar.
 - Aceitação: 6/7 sem pistas, raciocínio escrito e laboratório executado. Resultados orientam estudo; não certificam domínio da pós-graduação.
-- Estado: introdutório; aprofundar após publicação de B05.
+- Estado: conteúdo completo implementado; diagnóstico, roteiro de revisão e variantes incluídos. Publicar em commit próprio após validação.
 
 ## Entrega
 Revisão pedagógica e técnica → build/testes → commit da aula → push → confirmar publicação. Fontes de instalação: documentação oficial de Python consultada nesta revisão. Validar scripts localmente; não afirmar teste visual de navegador. Aulas seguintes continuam introdutórias até aos seus próprios ciclos.
+
+## Fecho
+B05 e B06 completas no âmbito definido. Sete exercícios por aula e sete variantes de autocorreção na B06 (não incluídas na contagem de exercícios interativos). Validação de respostas, links e laboratório. A ponte de bases termina aqui; a próxima unidade é Fundamentos Matemáticos para IA, módulo 1.

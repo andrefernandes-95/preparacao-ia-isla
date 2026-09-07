@@ -13,7 +13,7 @@ Python, matrizes, médias e divisão entre treino e teste.
 Comparar regressão e classificação com uma referência simples e justificar a divisão dos dados.
 
 ## Aulas introdutórias implementadas
-Estimativa de 45 minutos por aula, incluindo exemplos e exercícios. Acrescentar prática e revisão conforme as dificuldades.
+Cada aula completa indica a sua duração e critérios. A estimativa de 45 minutos aplica-se apenas às versões ainda introdutórias; acrescentar prática e revisão conforme as dificuldades.
 
 ### Módulo 1 — Prever e medir
 - [ML01 — Regressão e referência simples](modulo-1/ml01.html): Comparar previsões numéricas com uma referência. Pré-requisitos: M01, B04 e P04.
