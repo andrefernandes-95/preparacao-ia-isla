@@ -2,6 +2,6 @@
   "name": "preparacao-ia", "version": "1.0.0", "private": true,
   "description": "Percurso de preparação para a pós-graduação em IA — HTML estático por aula",
   "type": "module",
-  "scripts": {"build": "node scripts/build.mjs", "test": "node scripts/check.mjs && node scripts/check-bases.mjs && node scripts/check-module2.mjs", "start": "node scripts/serve.mjs"},
+  "scripts": {"build": "node scripts/build.mjs", "test": "node scripts/check.mjs && node scripts/check-bases.mjs && node scripts/check-module2.mjs && node scripts/check-module3.mjs", "start": "node scripts/serve.mjs"},
   "engines": {"node": ">=20"}
 }
