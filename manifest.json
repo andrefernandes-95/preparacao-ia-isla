@@ -1,0 +1,205 @@
+{
+  "lessons": [
+    {
+      "id": "B01",
+      "url": "cadeiras/bases/modulo-1/b01.html",
+      "course": "bases"
+    },
+    {
+      "id": "B02",
+      "url": "cadeiras/bases/modulo-1/b02.html",
+      "course": "bases"
+    },
+    {
+      "id": "B03",
+      "url": "cadeiras/bases/modulo-2/b03.html",
+      "course": "bases"
+    },
+    {
+      "id": "B04",
+      "url": "cadeiras/bases/modulo-2/b04.html",
+      "course": "bases"
+    },
+    {
+      "id": "B05",
+      "url": "cadeiras/bases/modulo-3/b05.html",
+      "course": "bases"
+    },
+    {
+      "id": "B06",
+      "url": "cadeiras/bases/modulo-3/b06.html",
+      "course": "bases"
+    },
+    {
+      "id": "M01",
+      "url": "cadeiras/matematica/modulo-1/m01.html",
+      "course": "matematica"
+    },
+    {
+      "id": "M02",
+      "url": "cadeiras/matematica/modulo-1/m02.html",
+      "course": "matematica"
+    },
+    {
+      "id": "M03",
+      "url": "cadeiras/matematica/modulo-2/m03.html",
+      "course": "matematica"
+    },
+    {
+      "id": "M04",
+      "url": "cadeiras/matematica/modulo-2/m04.html",
+      "course": "matematica"
+    },
+    {
+      "id": "P01",
+      "url": "cadeiras/programacao/modulo-1/p01.html",
+      "course": "programacao"
+    },
+    {
+      "id": "P02",
+      "url": "cadeiras/programacao/modulo-1/p02.html",
+      "course": "programacao"
+    },
+    {
+      "id": "P03",
+      "url": "cadeiras/programacao/modulo-2/p03.html",
+      "course": "programacao"
+    },
+    {
+      "id": "P04",
+      "url": "cadeiras/programacao/modulo-2/p04.html",
+      "course": "programacao"
+    },
+    {
+      "id": "I01",
+      "url": "cadeiras/introducao/modulo-1/i01.html",
+      "course": "introducao"
+    },
+    {
+      "id": "I02",
+      "url": "cadeiras/introducao/modulo-1/i02.html",
+      "course": "introducao"
+    },
+    {
+      "id": "I03",
+      "url": "cadeiras/introducao/modulo-2/i03.html",
+      "course": "introducao"
+    },
+    {
+      "id": "I04",
+      "url": "cadeiras/introducao/modulo-2/i04.html",
+      "course": "introducao"
+    },
+    {
+      "id": "ML01",
+      "url": "cadeiras/machine-learning/modulo-1/ml01.html",
+      "course": "machine-learning"
+    },
+    {
+      "id": "ML02",
+      "url": "cadeiras/machine-learning/modulo-1/ml02.html",
+      "course": "machine-learning"
+    },
+    {
+      "id": "ML03",
+      "url": "cadeiras/machine-learning/modulo-2/ml03.html",
+      "course": "machine-learning"
+    },
+    {
+      "id": "ML04",
+      "url": "cadeiras/machine-learning/modulo-2/ml04.html",
+      "course": "machine-learning"
+    },
+    {
+      "id": "D01",
+      "url": "cadeiras/deep-learning/modulo-1/d01.html",
+      "course": "deep-learning"
+    },
+    {
+      "id": "D02",
+      "url": "cadeiras/deep-learning/modulo-1/d02.html",
+      "course": "deep-learning"
+    },
+    {
+      "id": "D03",
+      "url": "cadeiras/deep-learning/modulo-2/d03.html",
+      "course": "deep-learning"
+    },
+    {
+      "id": "D04",
+      "url": "cadeiras/deep-learning/modulo-2/d04.html",
+      "course": "deep-learning"
+    },
+    {
+      "id": "N01",
+      "url": "cadeiras/nlp/modulo-1/n01.html",
+      "course": "nlp"
+    },
+    {
+      "id": "N02",
+      "url": "cadeiras/nlp/modulo-1/n02.html",
+      "course": "nlp"
+    },
+    {
+      "id": "N03",
+      "url": "cadeiras/nlp/modulo-2/n03.html",
+      "course": "nlp"
+    },
+    {
+      "id": "N04",
+      "url": "cadeiras/nlp/modulo-2/n04.html",
+      "course": "nlp"
+    },
+    {
+      "id": "A01",
+      "url": "cadeiras/aplicacoes/modulo-1/a01.html",
+      "course": "aplicacoes"
+    },
+    {
+      "id": "A02",
+      "url": "cadeiras/aplicacoes/modulo-1/a02.html",
+      "course": "aplicacoes"
+    },
+    {
+      "id": "A03",
+      "url": "cadeiras/aplicacoes/modulo-2/a03.html",
+      "course": "aplicacoes"
+    },
+    {
+      "id": "A04",
+      "url": "cadeiras/aplicacoes/modulo-2/a04.html",
+      "course": "aplicacoes"
+    },
+    {
+      "id": "F01",
+      "url": "cadeiras/projeto/modulo-1/f01.html",
+      "course": "projeto"
+    },
+    {
+      "id": "F02",
+      "url": "cadeiras/projeto/modulo-1/f02.html",
+      "course": "projeto"
+    },
+    {
+      "id": "F03",
+      "url": "cadeiras/projeto/modulo-2/f03.html",
+      "course": "projeto"
+    },
+    {
+      "id": "F04",
+      "url": "cadeiras/projeto/modulo-2/f04.html",
+      "course": "projeto"
+    }
+  ],
+  "courses": [
+    "bases",
+    "matematica",
+    "programacao",
+    "introducao",
+    "machine-learning",
+    "deep-learning",
+    "nlp",
+    "aplicacoes",
+    "projeto"
+  ]
+}
