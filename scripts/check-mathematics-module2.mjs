@@ -19,6 +19,28 @@ const execution=spawnSync(python,['-c',m3.code],{encoding:'utf8'});
 assert.equal(execution.status,0,execution.stderr);
 assert(execution.stdout.includes("'P(alerta)': 0.26"));
 
+const m4=lessons.find(l=>l.id==='M04');
+const loss=w=>(w-3)**2;
+const gradient=w=>2*(w-3);
+assert.deepEqual(m4.questions.map(q=>q.a),[3,8,5,2,1.4,12,1.08]);
+assert.equal(gradient(0),-6);
+assert.equal(gradient(3),0);
+let weight=0;
+weight-=.1*gradient(weight);
+assert(Math.abs(weight-.6)<1e-12);
+weight-=.1*gradient(weight);
+assert(Math.abs(weight-1.08)<1e-12);
+weight-=.1*gradient(weight);
+assert(Math.abs(weight-1.464)<1e-12);
+assert(loss(weight)<loss(0));
+const epsilon=1e-5;
+const numerical=(loss(2+epsilon)-loss(2-epsilon))/(2*epsilon);
+assert(Math.abs(numerical-gradient(2))<1e-8);
+const executionM4=spawnSync(python,['-c',m4.code],{encoding:'utf8'});
+assert.equal(executionM4.status,0,executionM4.stderr);
+assert(executionM4.stdout.includes('1 0.6 5.76'));
+assert(executionM4.stdout.includes('3 1.464 2.3593'));
+
 const selected=lessons.filter(l=>['M03','M04'].includes(l.id)&&l.complete);
 const forms=selected.flatMap(l=>l.questions.map(q=>({dataset:{answer:String(q.a),kind:q.options?'choice':'number'},raw:String(q.a).replace('.',','),feedback:{},solution:{},addEventListener(t,fn){this.submit=fn;},querySelector(s){return s==='.feedback'?this.feedback:this.solution;}})));
 vm.runInNewContext(fs.readFileSync('assets/site.js','utf8'),{document:{body:{dataset:{}},getElementById:()=>null,querySelectorAll:()=>forms,querySelector:()=>null},localStorage:{getItem:()=>null},FormData:class{constructor(form){this.form=form;}get(){return this.form.raw;}}});

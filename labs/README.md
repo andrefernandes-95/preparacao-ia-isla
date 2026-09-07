@@ -48,5 +48,9 @@ Os scripts executam na tua máquina; GitHub Pages apenas disponibiliza os fichei
 
 Depois de instalar os requisitos, executa `.venv/Scripts/python.exe labs/algebra_linear.py` em Windows. O laboratório confirma produto escalar, norma, previsões, produto matricial, produto elemento a elemento, identidade e uma rotação. Todas as matrizes são deliberadamente pequenas para confirmares uma célula no papel.
 
+## Derivadas e otimização — M04
+
+Executa `.venv/Scripts/python.exe labs/gradiente.py` em Windows, ou `.venv/bin/python labs/gradiente.py` em macOS/Linux. O laboratório compara a derivada analítica de `L(w) = (w - 3)²` com uma aproximação numérica, executa três atualizações com taxa `0,1` e mostra por que uma taxa `2` ultrapassa o mínimo e aumenta a perda. Usa apenas a biblioteca padrão.
+
 ## Primeiro laboratório — B05
 `ambiente.py` usa apenas a biblioteca padrão. Executa com `.venv/Scripts/python.exe labs/ambiente.py` em Windows, ou `.venv/bin/python labs/ambiente.py` em macOS/Linux. Mostra o executável, média 200 e mediana 110; a lista vazia produz null nos resumos. Nenhum ficheiro é alterado.

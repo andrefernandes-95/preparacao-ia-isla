@@ -9,7 +9,7 @@ Preparação para a pós-graduação em Inteligência Artificial do ISLA Gaia, a
 - [SPEC_PLAN geral e planos de cada cadeira](SPEC_PLAN.md)
 - [Laboratórios Python](labs/README.md)
 
-Inclui **38 aulas**, **19 módulos**, **150 exercícios interativos** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
+Inclui **38 aulas**, **19 módulos**, **154 exercícios interativos** e **8 planos de cadeira + ponte de bases**. Cada aula é um HTML separado. O índice contém apenas entradas e não carrega o curso completo.
 
 Os títulos/ECTS seguem a [página do ISLA](https://www.islagaia.pt/pt/pos-graduacoes/inteligencia-artificial-pt), consultada em 7 de setembro de 2026. Os módulos e conteúdos são uma proposta independente, não o programa oficial detalhado. A página indica início previsto em **2 de outubro de 2026**; o plano mantém a meta pessoal de novembro e inclui prioridades para outubro.
 
@@ -40,8 +40,8 @@ O backend Python não corre no GitHub Pages. As aulas de integração identifica
 - Aulas introdutórias escritas e disponíveis; os aprofundamentos AP de cada plano ainda são propostas a desenvolver.
 - Progresso apenas no navegador, exportável/importável em Sobre; não há conta, sincronização nem avaliação automática de domínio.
 - B01 a B06 completas com sete exercícios cada; restantes aulas ainda introdutórias com três, até ao respetivo aprofundamento. No calendário há espaço para revisão e código.
-- M01 e M02 completas com sete exercícios cada e laboratório NumPy; o módulo 2 de Matemática mantém a versão introdutória até ao seu ciclo próprio.
-- M03 completa com sete exercícios; M04 mantém a versão introdutória até ao seu commit próprio.
+- M01 e M02 completas com sete exercícios cada e laboratório NumPy.
+- M03 e M04 completas com sete exercícios cada; o módulo 2 de Matemática inclui laboratórios de Bayes, derivadas, gradiente e otimização.
 - Dados sintéticos nos laboratórios: não provam eficácia de um produto real.
 - Validação automatizada: build, ligações locais, anchors, tamanho das páginas, estrutura das aulas e cálculos de referência. Inspeção visual em navegador não incluída nesta validação.
 
@@ -53,3 +53,5 @@ Segue a [especificação do módulo 1](cadeiras/bases/modulo-1/SPEC_PLAN.md). Ca
 Módulo 2 concluído: [especificação de funções e dados](cadeiras/bases/modulo-2/SPEC_PLAN.md). B03 e B04 publicadas por aula, com sete exercícios cada e verificações de cálculos e do validador.
 
 Módulo 3 concluído: [especificação de ambiente e diagnóstico](cadeiras/bases/modulo-3/SPEC_PLAN.md). A ponte de bases B01–B06 está completa; o diagnóstico tem sete perguntas, mapa de revisão e uma variante para nova tentativa. O laboratório ambiente.py usa apenas a biblioteca padrão e foi executado num ambiente virtual novo.
+
+Fundamentos Matemáticos concluídos: [módulo 1 de álgebra linear](cadeiras/matematica/modulo-1/SPEC_PLAN.md) e [módulo 2 de probabilidade e otimização](cadeiras/matematica/modulo-2/SPEC_PLAN.md). M01–M04 têm desenvolvimento completo, sete exercícios por aula e laboratórios verificáveis.
